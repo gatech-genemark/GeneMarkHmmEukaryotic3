@@ -1,0 +1,21 @@
+GeneMark.hmm eukaryotic version 3
+
+To compile for hmm, ES/ET/EP+:
+
+	cd src
+	make clean
+	make
+
+To compile for ETP:
+
+	cd src
+	make clean
+	make foretp
+
+To install the code, copy the executable to the desired location:
+
+	cp gmhmme3 path_to
+
+For MAC OSX:
+	remove -static option from the Makefile
+
