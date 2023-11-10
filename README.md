@@ -15,6 +15,15 @@ Ter-Hovhannisyan V., Lomsadze A., Chernoff Y. and Borodovsky M.
 "Gene prediction in novel fungal genomes using an ab initio algorithm with unsupervised training."  
 Genome Research, 2008 Dec; 18(12):1979-90  
 
+## Software license
+
+### GeneMark.hmm eukaryotic 3
+
+GeneMark.hmm eukaryotic 3 is distributed under Creative Commons Attribution NonCommercial ShareAlike 4.0 License.
+See the [full text of the license](License-Creative-Commons-Attribution-NonCommercial-ShareAlike-4.0-International.txt).  
+
+## Usage
+
 ```
 -----------------------------------------
  ./gmhmme3
